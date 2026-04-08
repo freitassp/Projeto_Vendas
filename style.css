@@ -75,3 +75,14 @@ nav a{
     font-size: 0.8rem;
     color: rgb(117, 117, 172);
 }
+
+.btn-compra{
+    color: black;
+    background-color: aqua;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
